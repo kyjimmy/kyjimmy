@@ -1,5 +1,6 @@
 ## Hi! I'm Jimmy 👋    
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jimmy-k-wong/)
+[![Gmail](https://img.shields.io/badge/%20-Let's%20Talk-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:kyjimmyut@gmail.com)
 
 ### Here's My Non-Linear Path to ML 👣
 
