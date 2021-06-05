@@ -17,8 +17,8 @@ I fell in love with Engineering and Data Science when I first came across them i
    "Languages": ["Python", "R", "MATLAB"], 
    "AI Framework": ["Keras", "TensorFlow", "Scikit-learn", "PySpark"],
    "ML Models": ["Regression", "Naive Bayes", "PCA", "Neural Networks"], 
-   "Databases": ["SQL"],
-   "Visualization": ["Tableau", "Matplotlib"]
+   "Databases": ["SQL", "REDCap"],
+   "Visualization": ["Tableau", "Matplotlib"],
    "Others": ["Docker", "Singularity", "Unix", "SPSS", "GCP"]
 }
 ```
