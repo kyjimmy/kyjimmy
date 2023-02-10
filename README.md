@@ -1,10 +1,12 @@
 ## Hi! I'm Jimmy 👋    
+
+[![Website](https://img.shields.io/badge/portfolio-website-orange)](https://www.kyjimmy.com/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jimmy-k-wong/)
 [![Gmail](https://img.shields.io/badge/%20-Let's%20Talk-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:kyjimmyut@gmail.com)
 
 ### Here's My Non-Linear Path to ML 👣
 
-My name is Jimmy Wong, an enthusiast in neuroscience 🧠 &nbsp;and ML 🤖 . I’m currently a Research Analyst at CAMH after obtaining a master degree in Biomedical Engineering (MASc) from the University of Toronto. Before my journey into engineering, I completed an Hons. BSc degree in Neuroscience and Psychology at U of T. 
+My name is Jimmy Wong, a professional in neuroscience 🧠 &nbsp;and ML 🤖 . I’m currently a Research Methods Specialist at CAMH after obtaining a Master degree in Biomedical Engineering (MASc) from the University of Toronto (UofT). Before my journey into engineering, I completed an Hons. BSc degree in Neuroscience and Psychology at UofT. 
 
 I fell in love with Engineering and Data Science when I first came across them in my fourth year. Since then, I began my journey into programming and ML. I have worked at major hospitals in Toronto for more than 5 years and been applying my knowledge in neuroscience, ML, and statistics to process and analyze large neuroimaging datasets (MRI, EEG, MEG). I enjoy learning and resolving new problems 🧩 . 
 
